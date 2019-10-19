@@ -1,5 +1,5 @@
 This documentation describes how to use the Karel automated
-toothbrush. They are nice and ugly.
+toothbrush. They are nice and very ugly.
 
 Note that this toothbrush is totally safe to use for children,
 adults, wildlife, and tall buildings.
