@@ -1,7 +1,5 @@
 h2 {
-    font-size: 42px;
-    margin-top: 0.83em;
-    margin-bottom: 0.83em;
+    font-size: 42 px;
     margin-left: 0;
     margin-right: 0;
     font-weight: bold;
@@ -9,8 +7,6 @@ h2 {
 }
 h3 { 
     font-size: 29px;
-    margin-top: 1em;
-    margin-bottom: 1em;
     margin-left: 0;
     margin-right: 0;
     font-weight: bold;
