@@ -1,6 +1,5 @@
 h2 {
-    display: block;
-    font-size: 3.5em;
+    font-size: 333px;
     margin-top: 0.83em;
     margin-bottom: 0.83em;
     margin-left: 0;
@@ -9,8 +8,7 @@ h2 {
 	  color: red;
 }
 h3 { 
-    display: block;
-    font-size: 1.17em;
+    font-size: 27px;
     margin-top: 1em;
     margin-bottom: 1em;
     margin-left: 0;
